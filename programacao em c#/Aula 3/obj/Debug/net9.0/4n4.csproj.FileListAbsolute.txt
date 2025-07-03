@@ -1,0 +1,14 @@
+D:\Users\Aluno\Documents\4n4\bin\Debug\net9.0\4n4.exe
+D:\Users\Aluno\Documents\4n4\bin\Debug\net9.0\4n4.deps.json
+D:\Users\Aluno\Documents\4n4\bin\Debug\net9.0\4n4.runtimeconfig.json
+D:\Users\Aluno\Documents\4n4\bin\Debug\net9.0\4n4.dll
+D:\Users\Aluno\Documents\4n4\bin\Debug\net9.0\4n4.pdb
+D:\Users\Aluno\Documents\4n4\obj\Debug\net9.0\4n4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\4n4\obj\Debug\net9.0\4n4.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\4n4\obj\Debug\net9.0\4n4.AssemblyInfo.cs
+D:\Users\Aluno\Documents\4n4\obj\Debug\net9.0\4n4.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\4n4\obj\Debug\net9.0\4n4.dll
+D:\Users\Aluno\Documents\4n4\obj\Debug\net9.0\refint\4n4.dll
+D:\Users\Aluno\Documents\4n4\obj\Debug\net9.0\4n4.pdb
+D:\Users\Aluno\Documents\4n4\obj\Debug\net9.0\4n4.genruntimeconfig.cache
+D:\Users\Aluno\Documents\4n4\obj\Debug\net9.0\ref\4n4.dll

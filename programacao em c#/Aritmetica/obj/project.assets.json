@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Aluno\\Desktop\\programacao em c#\\programacao em c#.csproj",
+      "projectUniqueName": "D:\\Users\\Aluno\\Documents\\c#\\Programa-o-em-C-\\programacao em c#\\Aritmetica\\programacao em c#.csproj",
       "projectName": "programacao em c#",
-      "projectPath": "D:\\Users\\Aluno\\Desktop\\programacao em c#\\programacao em c#.csproj",
+      "projectPath": "D:\\Users\\Aluno\\Documents\\c#\\Programa-o-em-C-\\programacao em c#\\Aritmetica\\programacao em c#.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Aluno\\Desktop\\programacao em c#\\obj\\",
+      "outputPath": "D:\\Users\\Aluno\\Documents\\c#\\Programa-o-em-C-\\programacao em c#\\Aritmetica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

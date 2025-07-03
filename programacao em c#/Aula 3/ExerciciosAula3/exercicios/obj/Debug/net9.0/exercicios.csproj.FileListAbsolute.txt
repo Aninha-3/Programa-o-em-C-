@@ -1,0 +1,14 @@
+D:\Users\Aluno\Documents\4n4\exercicios\bin\Debug\net9.0\exercicios.exe
+D:\Users\Aluno\Documents\4n4\exercicios\bin\Debug\net9.0\exercicios.deps.json
+D:\Users\Aluno\Documents\4n4\exercicios\bin\Debug\net9.0\exercicios.runtimeconfig.json
+D:\Users\Aluno\Documents\4n4\exercicios\bin\Debug\net9.0\exercicios.dll
+D:\Users\Aluno\Documents\4n4\exercicios\bin\Debug\net9.0\exercicios.pdb
+D:\Users\Aluno\Documents\4n4\exercicios\obj\Debug\net9.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\4n4\exercicios\obj\Debug\net9.0\exercicios.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\4n4\exercicios\obj\Debug\net9.0\exercicios.AssemblyInfo.cs
+D:\Users\Aluno\Documents\4n4\exercicios\obj\Debug\net9.0\exercicios.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\4n4\exercicios\obj\Debug\net9.0\exercicios.dll
+D:\Users\Aluno\Documents\4n4\exercicios\obj\Debug\net9.0\refint\exercicios.dll
+D:\Users\Aluno\Documents\4n4\exercicios\obj\Debug\net9.0\exercicios.pdb
+D:\Users\Aluno\Documents\4n4\exercicios\obj\Debug\net9.0\exercicios.genruntimeconfig.cache
+D:\Users\Aluno\Documents\4n4\exercicios\obj\Debug\net9.0\ref\exercicios.dll
