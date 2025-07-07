@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Aluno\\Documents\\c#\\Programa-o-em-C-\\programacao em c#\\Aula 5\\Aula 5.csproj",
+      "projectUniqueName": "D:\\Users\\Aluno\\Documents\\c#\\Programa-o-em-C-\\programacao em c#\\Aula 5\\exc5\\Aula 5.csproj",
       "projectName": "Aula 5",
-      "projectPath": "D:\\Users\\Aluno\\Documents\\c#\\Programa-o-em-C-\\programacao em c#\\Aula 5\\Aula 5.csproj",
+      "projectPath": "D:\\Users\\Aluno\\Documents\\c#\\Programa-o-em-C-\\programacao em c#\\Aula 5\\exc5\\Aula 5.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Aluno\\Documents\\c#\\Programa-o-em-C-\\programacao em c#\\Aula 5\\obj\\",
+      "outputPath": "D:\\Users\\Aluno\\Documents\\c#\\Programa-o-em-C-\\programacao em c#\\Aula 5\\exc5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
