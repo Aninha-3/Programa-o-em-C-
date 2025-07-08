@@ -5,6 +5,7 @@ Console.WriteLine(informacoes);
 
 string[] cadastro = informacoes.Split(',');
 
+
 if (cadastro.Length == 3)
 {
     string nome = cadastro[0].Trim();
