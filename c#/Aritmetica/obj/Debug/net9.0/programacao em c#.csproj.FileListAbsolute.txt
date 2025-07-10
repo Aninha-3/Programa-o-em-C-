@@ -1,0 +1,14 @@
+D:\Users\Aluno\Desktop\programacao em c#\bin\Debug\net9.0\programacao em c#.exe
+D:\Users\Aluno\Desktop\programacao em c#\bin\Debug\net9.0\programacao em c#.deps.json
+D:\Users\Aluno\Desktop\programacao em c#\bin\Debug\net9.0\programacao em c#.runtimeconfig.json
+D:\Users\Aluno\Desktop\programacao em c#\bin\Debug\net9.0\programacao em c#.dll
+D:\Users\Aluno\Desktop\programacao em c#\bin\Debug\net9.0\programacao em c#.pdb
+D:\Users\Aluno\Desktop\programacao em c#\obj\Debug\net9.0\programacao em c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Desktop\programacao em c#\obj\Debug\net9.0\programacao em c#.AssemblyInfoInputs.cache
+D:\Users\Aluno\Desktop\programacao em c#\obj\Debug\net9.0\programacao em c#.AssemblyInfo.cs
+D:\Users\Aluno\Desktop\programacao em c#\obj\Debug\net9.0\programacao em c#.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\programacao em c#\obj\Debug\net9.0\programacao em c#.dll
+D:\Users\Aluno\Desktop\programacao em c#\obj\Debug\net9.0\refint\programacao em c#.dll
+D:\Users\Aluno\Desktop\programacao em c#\obj\Debug\net9.0\programacao em c#.pdb
+D:\Users\Aluno\Desktop\programacao em c#\obj\Debug\net9.0\programacao em c#.genruntimeconfig.cache
+D:\Users\Aluno\Desktop\programacao em c#\obj\Debug\net9.0\ref\programacao em c#.dll
