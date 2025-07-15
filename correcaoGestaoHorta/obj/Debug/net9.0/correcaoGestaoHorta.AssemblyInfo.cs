@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("correcaoGestaoHorta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd9ffb3b0e51112306ef0fcffcf4b84cfc1ee1ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6f255cd1123c0e9d5c0a5e2aa0acb04090d67d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("correcaoGestaoHorta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("correcaoGestaoHorta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

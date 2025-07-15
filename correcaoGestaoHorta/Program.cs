@@ -8,51 +8,19 @@ int opcao = int.Parse(Console.ReadLine()); // Console.ReadLine() captura e retor
 switch (opcao)
 {
     case 1:
+        // Opção fruta selecionada
         Console.WriteLine("Digite o nome da fruta a ser salva:");
-        string fruta = Console.ReadLine(); // Atribuição do retorno do método Console.Readline() à variável fruta
-
-        string arquivo = "dados/frutas.csv";
-        string conteudoAtual = File.ReadAllText(arquivo); // Lê o conteúdo atual do arquivo
-
-        string[] frutasExistentes = conteudoAtual.Split(",");
-        bool frutaJaExiste = false;
-
-        for (int count = 0; count < frutasExistentes.Length; count++)
-        {
-            if (fruta == frutasExistentes[count])
-            {
-                frutaJaExiste = true;
-                Console.WriteLine("Fruta já existe.");
-            }
-        }
-
-        if (frutaJaExiste == false)
-        {
-            Console.WriteLine("Fruta não existe ainda, salvando no nosso banco de dados...");
-            File.WriteAllText(arquivo, conteudoAtual + fruta + ","); // Salva conteúdo no arquivo especificado
-        }
+        SalvarItem("fruta");
         break;
     case 2:
-        Console.WriteLine("Digite o nome da fruta a ser salva:");
-        string legume = Console.Readline();
-
-        string arquivo = "dados/legumes.csv";
-        string conteudoAtual = Console.ReadAllText(arquivo);
-
-        string[] legumesExistentes = conteudoAtual.Split(",");
-        bool legumesJaExistente = false;
-
-        for (int count = 0; count < legumesExistentes.Length; count++)
-        {
-            if (legume == legumesExistentes[count])
-            {
-                legumesJaExistente
-            }
-        }
         // Opção legume selecionada
+        Console.WriteLine("Digite o nome do legume a ser salvo:");
+        SalvarItem("legume");
         break;
     case 3:
         // Opção verdura selecionada
+        Console.WriteLine("Digite o nome da verdura a ser salva:");
+        SalvarItem("verdura");
         break;
     default:
         // Nenhuma das opções previstas foi selecionada
@@ -68,7 +36,50 @@ void ExibirMenu()
     Console.WriteLine("3 - Verdura");
 }
 
-void SalvarItem()
+void SalvarItem(string tipoDeItem)
 {
-    
+    string item = Console.ReadLine(); // Atribuição do retorno do método Console.Readline() à variável item
+
+    string arquivo = "dados/" + tipoDeItem + "s.csv";
+
+    /**
+     ! operador de negação
+     File.Exists("dados/fruta.csv") // false
+     File.Exists("dados/frutas.csv") // true
+     !File.Exists("dados/fruta.csv") // true
+    */
+
+    // Se o arquivo não existir
+    if (!File.Exists(arquivo))
+    {
+        // Criar arquivo com conteúdo vazio
+        File.WriteAllText(arquivo, "");
+    }
+
+    string conteudoAtual = File.ReadAllText(arquivo); // Lê o conteúdo atual do arquivo
+
+    string[] itensExistentes = conteudoAtual.Split(",");
+    bool itemJaExiste = false;
+
+    for (int count = 0; count < itensExistentes.Length; count++)
+    {
+        if (item == itensExistentes[count])
+        {
+            itemJaExiste = true;
+            Console.WriteLine($"{tipoDeItem} já existe.");
+        }
+    }
+
+    if (itemJaExiste == false)
+    {
+        Console.WriteLine($"{tipoDeItem} não existe ainda, salvando no nosso banco de dados...");
+        File.WriteAllText(arquivo, conteudoAtual + item + ","); // Salva conteúdo no arquivo especificado
+    }
+}
+
+// Modificar um item já existente
+
+void ModificarItens()
+{
+    string Modificar = (fruta.Replace());
 }
