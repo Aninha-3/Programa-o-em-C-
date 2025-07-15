@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\caixaEletronico\obj\Debug\net9.0\caixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\caixaEletronico\obj\Debug\net9.0\caixaEletronico.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\caixaEletronico\obj\Debug\net9.0\caixaEletronico.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\caixaEletronico\obj\Debug\net9.0\caixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\caixaEletronico\obj\Debug\net9.0\caixaEletronico.sourcelink.json
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\caixaEletronico\bin\Debug\net9.0\caixaEletronico.exe
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\caixaEletronico\bin\Debug\net9.0\caixaEletronico.deps.json
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\caixaEletronico\bin\Debug\net9.0\caixaEletronico.runtimeconfig.json
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\caixaEletronico\bin\Debug\net9.0\caixaEletronico.dll
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\caixaEletronico\bin\Debug\net9.0\caixaEletronico.pdb
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\caixaEletronico\obj\Debug\net9.0\caixaEletronico.dll
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\caixaEletronico\obj\Debug\net9.0\refint\caixaEletronico.dll
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\caixaEletronico\obj\Debug\net9.0\caixaEletronico.pdb
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\caixaEletronico\obj\Debug\net9.0\caixaEletronico.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\caixaEletronico\obj\Debug\net9.0\ref\caixaEletronico.dll

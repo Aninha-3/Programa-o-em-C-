@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Aluno\\Documents\\c#\\Programa-o-em-C-\\programacao em c#\\Aula 5\\exc6\\exc6.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Nova pasta\\Programa-o-em-C-\\c#\\Aula 5\\exc6\\exc6.csproj",
       "projectName": "exc6",
-      "projectPath": "D:\\Users\\Aluno\\Documents\\c#\\Programa-o-em-C-\\programacao em c#\\Aula 5\\exc6\\exc6.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Desktop\\Nova pasta\\Programa-o-em-C-\\c#\\Aula 5\\exc6\\exc6.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Aluno\\Documents\\c#\\Programa-o-em-C-\\programacao em c#\\Aula 5\\exc6\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Desktop\\Nova pasta\\Programa-o-em-C-\\c#\\Aula 5\\exc6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

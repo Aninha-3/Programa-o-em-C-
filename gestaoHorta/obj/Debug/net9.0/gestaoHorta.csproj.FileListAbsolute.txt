@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\gestaoHorta\obj\Debug\net9.0\gestaoHorta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\gestaoHorta\obj\Debug\net9.0\gestaoHorta.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\gestaoHorta\obj\Debug\net9.0\gestaoHorta.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\gestaoHorta\obj\Debug\net9.0\gestaoHorta.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\gestaoHorta\obj\Debug\net9.0\gestaoHorta.sourcelink.json
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\gestaoHorta\bin\Debug\net9.0\gestaoHorta.exe
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\gestaoHorta\bin\Debug\net9.0\gestaoHorta.deps.json
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\gestaoHorta\bin\Debug\net9.0\gestaoHorta.runtimeconfig.json
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\gestaoHorta\bin\Debug\net9.0\gestaoHorta.dll
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\gestaoHorta\bin\Debug\net9.0\gestaoHorta.pdb
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\gestaoHorta\obj\Debug\net9.0\gestaoHorta.dll
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\gestaoHorta\obj\Debug\net9.0\refint\gestaoHorta.dll
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\gestaoHorta\obj\Debug\net9.0\gestaoHorta.pdb
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\gestaoHorta\obj\Debug\net9.0\gestaoHorta.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Nova pasta\Programa-o-em-C-\gestaoHorta\obj\Debug\net9.0\ref\gestaoHorta.dll
