@@ -8,22 +8,22 @@ int opcao = int.Parse(Console.ReadLine()); // Console.ReadLine() captura e retor
 switch (opcao)
 {
     case 1:
-        // Opção fruta selecionada
         Console.WriteLine("Digite o nome da fruta a ser salva:");
         SalvarItem("fruta");
         break;
     case 2:
-        // Opção legume selecionada
         Console.WriteLine("Digite o nome do legume a ser salvo:");
         SalvarItem("legume");
         break;
     case 3:
-        // Opção verdura selecionada
         Console.WriteLine("Digite o nome da verdura a ser salva:");
         SalvarItem("verdura");
         break;
+        case 4:
+        Console.WriteLine("Digite o item a ser modificado:");
+        ModificarItens();
     default:
-        // Nenhuma das opções previstas foi selecionada
+        Console.WriteLine("Ás informações sugeridas não válidas. Digite-as novamente.");
         break;
 }
 
@@ -77,9 +77,4 @@ void SalvarItem(string tipoDeItem)
     }
 }
 
-// Modificar um item já existente
 
-void ModificarItens()
-{
-    string Modificar = (fruta.Replace());
-}
