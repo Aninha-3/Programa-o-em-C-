@@ -53,25 +53,7 @@ class ContaBancaria()
         }
 
     }
-    /*
-  public void Extrato()
-    {
-        string caminho = "extrato.txt"; // Caminho do arquivo a ser lido/escrito
 
-        if (File.Exists(caminho))
-        {
-            string conteudo = File.ReadAllText(caminho); // Lê o conteúdo do arquivo
-
-            string[] transacoes = conteudo.Split("\",\"");
-
-            for (int cont = 0; cont < transacoes.Length; cont++)
-            {
-                Console.WriteLine(transacoes[cont]);
-            }
-        }
-    }
-
-*/
 
 
 }
