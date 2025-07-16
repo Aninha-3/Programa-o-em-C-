@@ -12,12 +12,19 @@ class Program
         // Invocar o método
         ana.Falar();
 
+        Console.Clear();
 
         Carro bumblebee = new Carro();
         bumblebee.marca = "Chevrolet";
         bumblebee.modelo = "Camaro";
         bumblebee.ano = 2010;
         bumblebee.Ligar();
+        bumblebee.Ligar();
+        bumblebee.Desligar();
+        bumblebee.Desligar();
+        bumblebee.Info();
+     
+
 
     }
 }
