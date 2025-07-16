@@ -6,9 +6,9 @@ class ContaBancaria()
 
     public string Titular;
 
-    public decimal Saldo;
+    public double Saldo;
 
-    public int Deposito;
+    public int deposito;
 
     public void Info()
     {
@@ -19,10 +19,9 @@ class ContaBancaria()
 
     public void ExibirSaldo()
     {
-        if (Saldo < 0)
+        if (Saldo > 0)
         {
-            Saldo = Saldo + Saldo;
-            return Saldo;
+            Console.WriteLine($"Este é o seu saldo : {Saldo}");
         }
         else
         {
@@ -30,39 +29,49 @@ class ContaBancaria()
         }
     }
 
-    public bool DepositarDinheiro()
+    public void DepositarDinheiro( double deposito)
     {
-
-        if (Deposito >= 0)
-        {
-            Saldo = Saldo + Deposito;
-            Console.WriteLine("Deposito realizado com sucesso.");
-        }
+        if(deposito > 0)
+    {
+        Saldo = Saldo + deposito;
+    }
         else
         {
             Console.WriteLine("Valor para depósito inválido.");
         }
 
     }
-    
-/*   public void Extrato()
-{
-    string caminho = "extrato.txt"; // Caminho do arquivo a ser lido/escrito
-
-    if (File.Exists(caminho))
+    public void SacarDinheiro( double saque)
     {
-        string conteudo = File.ReadAllText(caminho); // Lê o conteúdo do arquivo
-
-        string[] transacoes = conteudo.Split("\",\"");
-
-        for (int cont = 0; cont < transacoes.Length; cont++)
-        {
-            Console.WriteLine(transacoes[cont]);
-        }        
+        if(saque > 0)
+    {
+        Saldo = Saldo - saque;
     }
-}
-*/
+        else
+        {
+            Console.WriteLine("Valor para sacar é inválido.");
+        }
 
+    }
+    /*
+  public void Extrato()
+    {
+        string caminho = "extrato.txt"; // Caminho do arquivo a ser lido/escrito
+
+        if (File.Exists(caminho))
+        {
+            string conteudo = File.ReadAllText(caminho); // Lê o conteúdo do arquivo
+
+            string[] transacoes = conteudo.Split("\",\"");
+
+            for (int cont = 0; cont < transacoes.Length; cont++)
+            {
+                Console.WriteLine(transacoes[cont]);
+            }
+        }
+    }
+
+*/
 
 
 }

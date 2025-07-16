@@ -13,9 +13,14 @@ class Program
         conta.Saldo = 40000;
         conta.Info();
         conta.ExibirSaldo();
-        conta.DepositarDinheiro();
-        conta.Extrato();
+        conta.DepositarDinheiro(52);
+        conta.ExibirSaldo();
+        conta.SacarDinheiro(30);
+        conta.ExibirSaldo();
 
-    
+        /*
+        conta.Extrato();*/
+
+
     }
 }
