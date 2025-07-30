@@ -8,7 +8,7 @@ string petalas = @"         ,
      '\\//'   ";
      
 
-string caule = @
+string caule = @"
        ||     
        ||     
        ||     
