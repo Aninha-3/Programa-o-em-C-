@@ -10,6 +10,9 @@ class ContaBancaria()
 
     public int deposito;
 
+    
+    private List<string> historico = new List<string>();
+
     public void Info()
     {
         Console.WriteLine($"O número a sua conta é: {Numero}");
@@ -54,6 +57,6 @@ class ContaBancaria()
 
     }
 
-
+ 
 
 }
